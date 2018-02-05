@@ -11,6 +11,7 @@ public class CapDemoAppApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("Testing now!");
 	}
 
 }
