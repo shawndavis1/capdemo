@@ -1,5 +1,2 @@
 
-# capdemo 
-
-# JENKINS trigger2
-
+# capdemo
